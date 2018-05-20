@@ -2,7 +2,6 @@
 def display_board
   #puts "A Tic Tac Toe Board"
   for i in 1..5
-    puts i
     if i%2 == 0
       puts "-----------"
     else
