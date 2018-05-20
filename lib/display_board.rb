@@ -4,7 +4,7 @@ def display_board
   puts i
   if i%4 == 0
     puts "-----------"
-  elsif
+  else
     puts   "   |   |   "
   end
 end
